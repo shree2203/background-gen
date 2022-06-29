@@ -1,0 +1,33 @@
+body{
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+   font-size: 1.8rem;
+   text-transform: uppercase;
+   letter-spacing: .6em;
+   top: 15%;
+   background: linear-gradient(to right, red, rgb(23, 23, 194));
+}
+
+h1{
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+   font-size: 2.3rem;
+   text-transform: uppercase;
+   letter-spacing: .6em;
+   color: rgb(23, 13, 13);
+}
+h2{
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+   font-size: 1.39rem;
+   text-transform: uppercase;
+   letter-spacing: .3em;
+   color: rgb(29, 26, 26);
+}
+
+h3{
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+   font-size: 1.1rem;
+   letter-spacing: .06em;
+}
